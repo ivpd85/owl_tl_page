@@ -1,10 +1,6 @@
 body{
     /*background: rgba(53, 77, 92, 0.6);*/
-<<<<<<< HEAD
     background-image: url("./img/background-steklo-min.png");
-=======
-    background-image: url("/img/background-steklo-min.png");
->>>>>>> 7ab32f47d3e3e73a8e79d8bbc42705f4f783e38d
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
